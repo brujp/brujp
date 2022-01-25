@@ -1,5 +1,4 @@
 - 👋 Olá! Eu sou o @brujp
-- :heart: Sou um amante da tecnologia. 
 - :soccer: Futebol é a minha praia!
 
 
