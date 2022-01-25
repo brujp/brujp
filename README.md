@@ -1,5 +1,6 @@
 - 👋 Olá! Eu sou o @brujp
 - :soccer: Apaixonado por futebol!
+- Nada é em vão. Se não é benção, é lição!
 
 
 <!---
