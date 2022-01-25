@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou o @brujp
-- :soccer: Futebol é a minha praia!
+- :soccer: Apaixonado por futebol!
 
 
 <!---
