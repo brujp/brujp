@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Olá! Eu sou o Bruno
 
-- 🧑‍💻 Atualmente trabalho como Engenheiro de Software no @itau.
 - 🌱 Estudando Kotlin
 
 <div align="center">
