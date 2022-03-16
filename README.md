@@ -4,6 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🤗 Eu sou o Bruno!
 - 🧑‍💻 Engenheiro de Software, Itaú Unibanco.
+- ⚽ Apaixonado por futebol.
+- 🙃 Me considero uma pessoa muito tranquila.
+- 🕷️ Fã do Homem-Aranha.
 
 <br>
 
