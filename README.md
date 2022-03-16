@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Estudando Kotlin
 
-![CatComputerGIF](https://user-images.githubusercontent.com/31456501/158460768-87a03617-8f72-45ec-8200-7015df35b1e4.gif)
-
 <br>
 
 <div align="center">
