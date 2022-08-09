@@ -2,10 +2,8 @@
 brujp/brujp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🤗 Eu sou o Bruno!
-- 🧑‍💻 Engenheiro de Software, Itaú Unibanco.
-- ⚽ Apaixonado por futebol.
-- 🕷️ Fã do Homem-Aranha.
+## 🤗 Olá, eu sou o Bruno!
+- 🧑‍💻 Engenheiro de Software.
 
 <br>
 
