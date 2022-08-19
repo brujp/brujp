@@ -4,4 +4,4 @@
 
 🦿 Sou apaixonado por tecnologia.
 
-🌱 Estudando nesse momento: aprimorando os conhecimentos em Java e estudando AWS para tirar certificação "AWS Certified Cloud Practitioner".
+🌱 Estudando nesse momento: aprimorando os conhecimentos em Java, Python 3 e AWS.
