@@ -6,4 +6,4 @@
 
 🦿 Sou apaixonado por tecnologia.
 
-🌱 Estudando nesse momento: aprimorando os conhecimentos em Java, Python 3 e AWS.
+🌱 Estudando nesse momento: aprimorando os conhecimentos em Java, Python e AWS.
